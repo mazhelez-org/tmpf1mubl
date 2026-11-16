@@ -1,6 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/mazhelez-org/AL-Go/bf247f662e430b260701b13b6953849e0b2448a0/Actions/.Modules/settings.schema.json",
   "type": "PTE",
-  "templateUrl": "https://github.com/mazhelez-org/tmp3N4tJJ-PTE@main",
-  "MicrosoftTelemetryConnectionString": ""
+  "templateUrl": "https://github.com/mazhelez-org/tmpf1mubl-template@main",
+  "MicrosoftTelemetryConnectionString": "",
+  "templateSha": "25ee79e2ba0777a3bdcb0f9fdd28ea60ad07a928"
 }
